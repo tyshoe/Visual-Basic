@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = VB___Chopkins_Project_and_Chopkins_Solution
+build_property.ProjectDir = C:\Users\Tyler\source\repos\VB Chopkins Project and Chopkins Solution\VB - Chopkins Project and Chopkins Solution\
